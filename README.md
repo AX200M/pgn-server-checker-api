@@ -40,4 +40,5 @@ Select the tier u want and then deploy it, wait for everything to setup **Around
 
 The response will change according to if the port is open or not
 
-For any help contact me on Discord AX200M#9061
+For any help contact me on Discord AX300M
+
